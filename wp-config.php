@@ -149,7 +149,7 @@ if ( ! defined( 'WP_DEBUG' ) ) {
 
 /* That's all, stop editing! Happy Pressing. */
 
-
+// New edits here.
 
 
 /** Absolute path to the WordPress directory. */
